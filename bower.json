@@ -1,0 +1,17 @@
+{
+  "name": "Day9 FlagGame",
+  "homepage": "https://github.com/Ayush97Didwaniya/AngularTraining2017",
+  "authors": [
+    "Ayush Didwaniya <didwaniya.ayush@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
